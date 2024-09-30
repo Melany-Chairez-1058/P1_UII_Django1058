@@ -1,0 +1,14 @@
+-crear aplicacion chairezclase_app
+-comando --> python manage.py startapp chairezclase_app
+-creamos el archivo urls.py en chairezclase_app
+- ![alt text](image-1.png)
+- en setting.py de p2clase1058
+- ![alt text](image-2.png)
+- en urls.py de p2clase1058
+- ![alt text](image-3.png)
+- en urls.py de chairezclase_app
+- ![alt text](image-4.png)
+- en views.py en chairezclase_app
+- ![alt text](image-5.png)
+- en urls.py de chairezclase_app
+- ![alt text](image-6.png)
